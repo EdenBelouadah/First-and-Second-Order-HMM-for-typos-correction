@@ -1,1 +1,1 @@
-# Second-Order-HMM-for-typos-correction
+# First-and-Second-Order-HMM-for-typos-correction
